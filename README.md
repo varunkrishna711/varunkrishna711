@@ -1,12 +1,10 @@
 ### Hi there 👋
 
+I am Varun Krishna studying in College of Engineering, Trivandrum
+
+- 🔭 I’m currently working on React.js, Node.js, MongoDB
+- 🌱 I’m currently learning Django and Data Science
 <!--
-**varunkrishna711/varunkrishna711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

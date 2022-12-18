@@ -4,6 +4,9 @@ I am Varun Krishna studying in College of Engineering, Trivandrum
 
 - 🔭 I’m currently working on React.js, Node.js, MongoDB
 - 🌱 I’m currently learning Django and Data Science
+
+- The technology that I use are : 
+- ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,py,git,github,figma)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
